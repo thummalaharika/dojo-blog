@@ -1,0 +1,38 @@
+{
+  "blogs": [
+    {
+      "name": "Harika",
+      "department": "Electronics and Electrical Comminication Engineering",
+      "Rollno": "21EC10081",
+      "Hall": "Sister Nivedita Hall of Residence",
+      "id": 1
+    },
+    {
+      "name": "Anushka",
+      "department": "Electronics and Electrical Comminication Engineering",
+      "Rollno": "21EC10048",
+      "Hall": "Mother Teresa Hall of Residence",
+      "id": 2
+    },
+    {
+      "name": "Khushi Agrwal",
+      "department": "Electrical Engineering",
+      "Rollno": "21IE10081",
+      "Hall": "Sister Nivedita Hall of Residence",
+      "id": 3
+    },
+    {
+      "name": "Shelly Agarwal",
+      "department": "Chemical Engineering",
+      "Rollno": "21CH10045",
+      "Hall": "Mother Teresa Hall of Residence",
+      "id": 4
+    },
+    {
+      "name": "huefr",
+      "department": "erg",
+      "Hall": "rg54",
+      "id": 12
+    }
+  ]
+}
